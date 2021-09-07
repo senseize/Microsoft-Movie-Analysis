@@ -8,7 +8,7 @@ This is the **first end-of-module project in the Flatiron Online Data Science Co
 
 ## Business Problem
 
-Microsoft decides to enter the movie industry and join a group of successful peers such as Amazon Prime, Netflix, Disney+, HBO and Apple TV.
+The fictitious business problem deals with Microsoft deciding to enter the movie industry. It would hence join a group of successful peers such as Amazon Prime, Netflix, Disney+, HBO and Apple TV.
 
 In order for this venture to be successful, the head of Microsoft's new movie studio requires **data-driven, actionable insights on what type of movies to create**.
 
