@@ -6,7 +6,7 @@
 
 This is the first end-of-module project in the Flatiron Online Data Science Course. The project aims at testing and reinforcing the data analysis and engineering concepts taught in phase 1 of the Flatiron School curriculum.
 
-**Deliverables** for this project are this [GitHub Repository](https://github.com/senseize/Microsoft-Movie-Analysis), a [Jupyter Notebook](./Microsoft-Movie-Analysis-EDA.ipynb) containing the code along with markup, as well as a [presentation](./Microsoft Movie Analysis_Oliver Zimmer.pdf).
+**Deliverables** for this project are this [GitHub Repository](https://github.com/senseize/Microsoft-Movie-Analysis), a [Jupyter Notebook](./Microsoft-Movie-Analysis-EDA.ipynb) containing the code along with markup, as well as a [presentation](./'Microsoft Movie Analysis_Oliver Zimmer.pdf').
 
 ## Business Problem
 
