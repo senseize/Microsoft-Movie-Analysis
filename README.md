@@ -1,7 +1,5 @@
 # Microsoft Movie Analysis
 
-**Author**: Oliver Zimmer
-
 ## Overview
 
 This is the **first end-of-module project in the Flatiron Online Data Science Course**. The project aims at testing and reinforcing the data analysis and engineering concepts taught in phase 1 of the Flatiron School curriculum.
