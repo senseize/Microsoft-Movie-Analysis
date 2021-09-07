@@ -28,6 +28,7 @@ Since my **main focus** in the analyses was **profitability**, I applied a **Ret
  - Most movies operate on a production budget below 25m USD
  - The highest median ROI is achieved for production budgets above 200m USD
  
+![Dist_Budget_cat](./Images/Dist_Budget_cat.png)
 ![ROI_Budget](./Images/ROI_Budget.png)
 
 **Genre**
