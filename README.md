@@ -31,7 +31,7 @@ Since my **main focus** in the analyses was **profitability**, I applied a **Ret
 ![ROI_Budget](./Images/ROI_Budget.png)
 
 **Genre**
- - The most frequently produced genres are not the most profitable in terms of ROI
+ - The most frequently produced genres are not necessarily the most profitable in terms of ROI
  - Animation, Horror and Adventure movies are most profitable
  - Western, War and Sport genres are least profitable
  
